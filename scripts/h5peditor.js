@@ -1888,3 +1888,8 @@ ns.supportedLanguages = {
   'zh-tw': 'Chinese, Taiwan, Traditional',
   'zu': 'Zulu (isiZulu)'
 };
+
+// h5peditor.js
+// This is a placeholder file for the H5P editor.
+
+console.log('H5P Editor loaded');
